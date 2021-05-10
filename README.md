@@ -25,5 +25,6 @@
 - I would be glad if you contacted me for assistance or collaboration. I am always active on twitter and the following sites that you can talk to me on!
 ------------------------------
 - [@0xWise at Twitter](https://twitter.com/0xWise)
+- [My Discord Server](https://discord.gg/Mmm6YPNQv2)
 - [@3x3s at HackerOne](https://hackerone.com/3x3s?type=user)
 - [@3x3s at INTIGRITI](https://app.intigriti.com/researcher/profile/3x3s)
