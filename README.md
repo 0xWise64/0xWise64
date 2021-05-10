@@ -14,7 +14,7 @@
 - 👀 I’m interested in programming and software in general, and security research.
 - 🌱 I’m currently learning mobile apps development (kotlin) and mobile apps security.
 - 💞️ I’m looking to collaborate on development projects (web, mobile, python) and collaborate on bug bounty reports (e.g. you need help to dig into potential vulnerability).
-- 📫 How to reach me: [@0xWise](https://twitter.com/0xWise) or via email 3x3s@wearehackerone.com.
+- 📫 How to reach me: [@0xWise](https://twitter.com/0xWise) or via email 3x3sbugbounty@gmail.com.
 
 ### What i'm skilled at:
 
