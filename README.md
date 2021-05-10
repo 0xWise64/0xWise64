@@ -1,16 +1,29 @@
-### Hi there 👋
+<h2 align="center"> Hi there 👋 </h2>
 
-<!--
-**0xWise64/0xWise64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=0xWise64"> <img src="https://img.shields.io/twitter/follow/0xWise?color=blue&label=Twitter%20%400xWise&style=flat"> <img src="https://img.shields.io/github/stars/0xWise64"> 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xWise64">
+
+### ~# whoami
+
+- 👋 Hi, I’m Kerolos Atef @0xWise64, I'm full stack web developer, kotlin and python coder, i'm working as a part-time bug bounty hunter.
+- 👀 I’m interested in programming and software in general, and security research.
+- 🌱 I’m currently learning mobile apps development (kotlin) and mobile apps security.
+- 💞️ I’m looking to collaborate on development projects (web, mobile, python) and collaborate on bug bounty reports (e.g. you need help to dig into potential vulnerability).
+- 📫 How to reach me: [@0xWise](https://twitter.com/0xWise) or via email 3x3s@wearehackerone.com.
+
+### What i'm skilled at:
+
+- I prefer/like logical hacking in a way that includes finding high-risk security vulnerabilities.
+
+### Reach out / Collaborate with me:
+
+- I would be glad if you contacted me for assistance or collaboration. I am always active on twitter and the following sites that you can talk to me on!
+------------------------------
+- [@0xWise at Twitter](https://twitter.com/0xWise)
+- [@3x3s at HackerOne](https://hackerone.com/3x3s?type=user)
+- [@3x3s at INTIGRITI](https://app.intigriti.com/researcher/profile/3x3s)
