@@ -10,10 +10,7 @@
 
 ### ~# whoami
 
-- 👋 Hi, I’m Kerolos Atef @0xWise64, I'm full stack web developer, kotlin and python coder, i'm working as a part-time bug bounty hunter.
-- 👀 I’m interested in programming and software in general, and security research.
-- 🌱 I’m currently learning mobile apps development (kotlin) and mobile apps security.
-- 💞️ I’m looking to collaborate on development projects (web, mobile, python) and collaborate on bug bounty reports (e.g. you need help to dig into potential vulnerability).
+- 👋 Howdy, I’m Kerolos Atef @0xWise64, I'm full stack web developer, kotlin and python coder, Web, Network and Mobile Applications Penetration tester. Part time bounty hunter AKA 3x3s.
 - 📫 How to reach me: [@0xWise](https://twitter.com/0xWise) or via email 3x3sbugbounty@gmail.com.
 
 ### What i'm skilled at:
