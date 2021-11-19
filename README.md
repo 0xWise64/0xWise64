@@ -23,5 +23,4 @@
 ------------------------------
 - [@0xWise at Twitter](https://twitter.com/0xWise)
 - [@3x3s at HackerOne](https://hackerone.com/3x3s?type=user)
-- [@3x3s at INTIGRITI](https://app.intigriti.com/researcher/profile/3x3s)
 - ***[My Discord Server](https://discord.gg/Mmm6YPNQv2)***
