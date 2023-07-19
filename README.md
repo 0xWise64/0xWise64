@@ -22,7 +22,7 @@
 
 - If you would like to get in touch with me, please feel free to reach out via following methods. I am open to discussing new projects and opportunities.
 ------------------------------
-📧 kerolosatef23@yahoo.com | 🐦 [Twitter](https://twitter.com/0xWise) | 🕵️ [HackerOne](https://hackerone.com/3x3s?type=user) | 🐜 [Bugcrowd](https://bugcrowd.com/0xWise) | 🔎 [Intigriti](https://app.intigriti.com/researcher/3x3s) | ✍️ [Medium](https://0xwise.medium.com/)
+📧 kerolosatef23@yahoo.com | 🐦 [Twitter](https://twitter.com/0xWise) | 🕵️ [HackerOne](https://hackerone.com/0xWise?type=user) | 🐜 [Bugcrowd](https://bugcrowd.com/0xWise) | 🔎 [Intigriti](https://app.intigriti.com/researcher/3x3s) | ✍️ [Medium](https://0xwise.medium.com/)
 - ***[My Discord Server](https://discord.gg/Mmm6YPNQv2)***
 
 Thanks for stopping by!
