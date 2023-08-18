@@ -10,7 +10,7 @@
 
 ## ~# whoami
 
-- 👋 Howdy, I'm Kerolos Atef (AKA 0xWise and 3x3s). I am a computer programmer and hacker. I have over 6 years of combined experience in hacking (4+ years.) and freelance programming (3+ years.). Proficient at identifying and exploiting vulnerabilities in various systems, including web apps, android apps, desktop apps, source code audit and more.
+- 👋 Howdy, I'm Kerolos Atef (AKA 0xWise). I am a computer programmer and hacker. I have over 6 years of combined experience in hacking (4+ years.) and freelance programming (3+ years.). Proficient at identifying and exploiting vulnerabilities in various systems, including web apps, android apps, desktop apps, source code audit and more.
 
 ## What i'm skilled at
 
