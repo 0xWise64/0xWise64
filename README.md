@@ -15,7 +15,7 @@
 
 ---
 
-I’m **Kerolos Atef (0xWise)**, an offensive security researcher with **8 years in security**. I hunt high-impact, remotely exploitable vulnerabilities and turn them into clear, reproducible reports.
+I’m **Kerolos Atef (0xWise)**, an offensive security researcher with **8 years in security**.
 
 ## What I test
 
