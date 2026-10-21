@@ -15,7 +15,7 @@
 
 ---
 
-I’m **Kerolos Atef (0xWise)**, an offensive security researcher with **8 years in security**.
+I’m **Kerolos Atef (0xWise)**, an offensive security researcher with over **8 years of experience in cybersecurity**.
 
 ## What I test
 
